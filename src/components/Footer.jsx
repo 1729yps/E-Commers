@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-top">
-        <p>For better experience, download the Swiggy app now</p>
+        <p>For better experience, download the E-Comm app now</p>
         <div className="footer-apps">
           <a href="#">
             <img
@@ -24,7 +24,7 @@ const Footer = () => {
         <div className="footer-column">
           <img
             src="https://upload.wikimedia.org/wikipedia/en/6/6a/Swiggy_logo.svg"
-            alt="Swiggy Logo"
+            alt="E-Comm Logo"
             className="footer-logo"
           />
           <p>© 2024 Bundl Technologies Pvt. Ltd</p>
@@ -35,9 +35,9 @@ const Footer = () => {
             <li><a href="#">About</a></li>
             <li><a href="#">Careers</a></li>
             <li><a href="#">Team</a></li>
-            <li><a href="#">Swiggy One</a></li>
-            <li><a href="#">Swiggy Instamart</a></li>
-            <li><a href="#">Swiggy Genie</a></li>
+            <li><a href="#">E-Comm One</a></li>
+            <li><a href="#">E-Comm Instamart</a></li>
+            <li><a href="#">E-Comm Genie</a></li>
           </ul>
         </div>
         <div className="footer-column">
