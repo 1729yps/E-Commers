@@ -1,4 +1,5 @@
 import useCartStore from "../zustand/store"
+import '../css/Cart.css' 
 
 const CartPage = () => {
 
@@ -12,7 +13,7 @@ const handleClearCart = ()=>{
   return (
 
 
-  <div>
+  <div className="cart-container">
     <h1>CartItems - ({cartItems.length})</h1>
     <button onClick={handleClearCart} >Clear Cart</button>
     {

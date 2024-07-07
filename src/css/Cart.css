@@ -1,0 +1,20 @@
+button{
+    padding: 10px 5px;
+    background-color: rgb(71, 71, 245);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 20px;
+}
+button:hover{
+    background-color: aqua;
+    color: black;
+}
+.cart-container img{
+    margin: 20px;
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 4px rgb(113, 112, 112);
+
+}
